@@ -73,7 +73,7 @@ $(function () {
     simpleStore.init({
 
         // brand can be text or image URL
-        brand: "https://raw.githubusercontent.com/hw-nu/hw/master/hw_logo.png",
+        brand: "https://raw.githubusercontent.com/hw-nu/hw/master/images/hw_logo.png",
         // brand: "HighView.nu",
 
         // numder of products per row (accepts 1, 2 or 3)
