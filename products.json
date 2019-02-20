@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "name": "HighView Original",
+            "price": "199",
+            "options": [],
+            "image": "https://raw.githubusercontent.com/hw-nu/hw/master/normal_effect-6.jpg",
+            "description": "Glasögon som tar dig till högre höjder"
+        },
+        {
+            "name": "HighView Spiral",
+            "price": "199",
+            "options": [],
+            "image": "https://raw.githubusercontent.com/hw-nu/hw/master/spiral_effect-2.jpg",
+            "description": "Glasögon med spiraleffekt"
+        }
+    ]
+}
